@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\oussa\\Desktop\\DotNet Tuttorials\\ECommerceApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C631063-63FC-428E-9F98-1DB6EA3EF20E}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\oussa\\desktop\\dotnet tuttorials\\ecommerceapp\\ecommerceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C631063-63FC-428E-9F98-1DB6EA3EF20E}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C631063-63FC-428E-9F98-1DB6EA3EF20E}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\oussa\\desktop\\dotnet tuttorials\\ecommerceapp\\ecommerceapp\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C631063-63FC-428E-9F98-1DB6EA3EF20E}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\controllers\\feedbackcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C631063-63FC-428E-9F98-1DB6EA3EF20E}|ECommerceApp\\ECommerceApp.csproj|c:\\users\\oussa\\desktop\\dotnet tuttorials\\ecommerceapp\\ecommerceapp\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C631063-63FC-428E-9F98-1DB6EA3EF20E}|ECommerceApp\\ECommerceApp.csproj|solutionrelative:ecommerceapp\\services\\feedbackservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\DotNet Tuttorials\\ECommerceApp\\ECommerceApp\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Program.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\DotNet Tuttorials\\ECommerceApp\\ECommerceApp\\Program.cs",
+              "RelativeToolTip": "ECommerceApp\\Program.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T14:49:03.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeedBackService.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\DotNet Tuttorials\\ECommerceApp\\ECommerceApp\\Services\\FeedBackService.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Services\\FeedBackService.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\DotNet Tuttorials\\ECommerceApp\\ECommerceApp\\Services\\FeedBackService.cs",
+              "RelativeToolTip": "ECommerceApp\\Services\\FeedBackService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T14:40:22.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FeedBackController.cs",
+              "DocumentMoniker": "C:\\Users\\oussa\\Desktop\\DotNet Tuttorials\\ECommerceApp\\ECommerceApp\\Controllers\\FeedBackController.cs",
+              "RelativeDocumentMoniker": "ECommerceApp\\Controllers\\FeedBackController.cs",
+              "ToolTip": "C:\\Users\\oussa\\Desktop\\DotNet Tuttorials\\ECommerceApp\\ECommerceApp\\Controllers\\FeedBackController.cs",
+              "RelativeToolTip": "ECommerceApp\\Controllers\\FeedBackController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-09T14:34:40.183Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
